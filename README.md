@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cosmichashira or kep
+- 👀 I’m interested in making cool stuff with whatever digital or analog sensors I can find!! I also like to edit videos but that's probably not part of this community
+- 🌱 I’m currently learning Instrumentation and control engineering as my Bachelors degree
+- I am currently learning python as my first coding language and also starting c++ due to my interest in basic arduino projects
